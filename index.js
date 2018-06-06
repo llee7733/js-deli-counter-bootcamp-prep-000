@@ -29,8 +29,3 @@ for(let i = 1; i<katzDeliLine.length;i++){
 }
 return myString
 }
-
-else
-  return(`The line is currently:` + line);
-}
->>>>>>> 88baa164efb56f0f19ec3b806b341f88c94459ca
